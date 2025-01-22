@@ -172,3 +172,9 @@ cython_debug/
 .terraform/
 *.tfstate
 *.tfstate.backup
+.DS_Store
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+*.tfplan
+*.tfout

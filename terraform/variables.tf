@@ -1,10 +1,10 @@
 variable "alpha_vantage_api_key" {
-  description = "5B4QLVXJ0LO5WYOB"
+  description = "Alpha Vantage API Key"
   type        = string
 }
 
 variable "email_endpoint" {
-  description = "emmanuel.umukoro@icloud.com"
+  description = "email"
   type        = string
 }
 
