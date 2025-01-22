@@ -1,7 +1,3 @@
-Here is a detailed, professional README.md for your project:
-
-Stock Alert System
-
 Overview
 
 The Stock Alert System is a real-time, event-driven notification system that provides live stock market updates to users. Built using AWS Lambda, Amazon SNS, Terraform, and the Alpha Vantage API, the system fetches stock data for selected symbols, processes it, and sends timely alerts to users via email or SMS. The alerts contain real-time stock prices and percentage changes, helping users stay informed about market movements during trading hours.
